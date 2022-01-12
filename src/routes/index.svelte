@@ -4,7 +4,11 @@
   const updateTitle = () => {
     name = "Wanderer";
   };
+
+  import Logo from "$lib/logo.svelte";
 </script>
+
+<Logo />
 
 <div class="index">
   <ul>

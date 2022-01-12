@@ -1,3 +1,9 @@
+<script>
+  import Logo from "$lib/logo.svelte";
+</script>
+
+<Logo name="sithum.is/about" />
+
 <div class="index">
   <ul>
     <li><a href="/guide">Guide</a></li>
