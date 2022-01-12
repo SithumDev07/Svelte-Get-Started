@@ -23,7 +23,7 @@
     height: 5vw;
     clip-path: circle();
     object-fit: cover;
-    filter: brightness(40%);
+    filter: brightness(75%) grayscale(50%);
     margin-right: 1.5rem;
   }
 </style>
